@@ -1,0 +1,19 @@
+BPM:180
+SPEED:1
+[AE] G E G E G E R
+[ME] G E G E G Q W
+[NE] G E G E G R G
+[BT] G R G E G W _
+[VQ] G Q G Q G W _
+[CQ] G Q G Q G T _
+[XQ] G Q W E W-E-W-Q G
+[BQ] G Q W E W-E-W-Q W
+[AE] G E G E G E R
+[ME] G E G E G Q W
+[NE] G E G E G E R
+[BT] G Q G T R-T-R-E W
+[VQ] G Q G Q G T _
+[CG] Q T R E W-E-W-Q G
+[XQ] G Q W E W-E-W-Q G
+[BQ] G Q T R E W Q
+[ZQ]

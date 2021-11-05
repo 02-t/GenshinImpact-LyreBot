@@ -1,0 +1,15 @@
+DONT FORGET TO RUN AS ADMIN!!!!
+
+time=2
+stop_key=r //MUST BE LOWERCASE
+
+bg_color=#2f2f2f
+ ^^ HEX COLOR (MUST PUT '#' BEFOR NUMER, EXAMPLE #242433)
+
+to create ur own song go to song, add a txt file and name it however you want
+
+inside the txt add the first line BPM:xxx xxx representing beats per minute (aka how many key presses will be pressed per minute)
+
+after adding the BPM you can add the keys you want to be pressed with a space in between, if you want 2 or more keys to be pressed at the same time don't add space
+
+you can also type SPEED:x to make the song go faster/slower
