@@ -1,0 +1,43 @@
+BPM:156
+SPEED:1
+
+Q J (QN) p E p (JB) p
+H G (HV) p Q p (GC) p
+R E (RS) p Y p (EA) p
+W Q (WJ) p H p (EJ) 
+
+Q J (QN) p E p (JB) (JB)
+H G (HV) p Q p (GC) (GC)
+R E (RS) p Y p (EA) (EA) 
+W Q (WJ) p H p (EJ) (EJ)
+
+(HV) r
+(HV) H (HV) H (JV) Q (GC) p (GC) W (QH) p (QH) 
+Q W (EF) p (EF) p
+Q W (EF) p (EF) p
+Q W (EG) p (EG) p (EG) G (QG) 
+W (EF) p
+(EF) E (EF) E (EF) R (WJ) p (WJ) p (WJ) p p
+
+G (EA) E p 
+SPEED:2 
+R E p p p p
+SPEED:1 
+
+G (JW) W p 
+SPEED:2 
+w q
+SPEED:1 
+p
+
+Q J 
+(QH) p (QH) Q (WJ) 
+Q J Q (EJ) p (EJ) 
+
+(EJ) p DG (HV) 
+(HV) J Q (WM) Q G 
+G (EA) (EA) (WJ) (WJ) (QH) p
+Q J G (HV) 
+(HV) J Q (WM) 
+Q J Q (QD)
+

@@ -1,0 +1,12 @@
+BPM:100
+SPEED:2
+H J Q V, Q Q JB H G G N H H 
+EN W Q J QV, Q Q WB Q W W X E E W X
+H J Q QV, Q Q JB H G G N H H
+EN W Q J QV, Q Q WB Q W W X E E W X
+ED C C C-C
+
+HN, N Q A Q A W S, S T TS E ES
+HN, N E A E A W S, S T TS Y YS
+HN, N Q A Q A W S, S T TS E ES
+HN, N E A E A, TS Y S Y

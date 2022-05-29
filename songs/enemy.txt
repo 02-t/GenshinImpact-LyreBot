@@ -1,0 +1,33 @@
+BPM:100
+SPEED:1
+F S F
+D S D
+
+S F F F F S
+S S F F F F S
+S S D D D D A
+A A D D D D A
+
+A F F F F S
+S F F F F S
+S S D D D D A
+A A D D D D A
+
+H G F G D
+S
+H H G F S D
+G
+
+G H G F S
+G F G F G F G F G  F S
+G H G F S
+G F G F G F S S S S F
+
+R W R
+R R R R R R
+E W E
+S S S F
+
+R W R
+R R R R R R
+E

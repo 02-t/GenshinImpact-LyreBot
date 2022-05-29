@@ -1,0 +1,25 @@
+BPM:130
+SPEED:1
+D, D+n+h, a, d, h
+P
+E, e+v, a, w+f, g, q+h
+P
+B+w, m, s, g, j, c+g, b, m
+p
+H, j, q+v, n, a, f, q, c
+p
+Q+x, v, n+j, s, f+h
+p
+C+j, b, m, a, s+g, d+c, b, m
+p
+D, D+n+h, a, d, h
+p
+E, e+v, a, w+f, g, q+h
+p
+B+w, m, s, g, j, c+g, b, m
+p
+H, j, v+q, n, s+j, d, f+h
+p
+B+j, m, s+h, g, 
+p
+H+n, a, d, h, q, w, nadhqe

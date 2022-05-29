@@ -1,0 +1,4 @@
+BPM:150
+SPEED:1
+D D F D S D N S A N A S S S D S A S D A N A N A N
+D D F D S A D S D N 

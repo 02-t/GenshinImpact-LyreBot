@@ -1,0 +1,5 @@
+BPM:130
+SPEED:1
+J W E R E W J   H W J   F J 
+J W E R E W R SPEED:2 
+R E W R E W J

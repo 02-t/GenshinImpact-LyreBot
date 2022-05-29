@@ -1,0 +1,13 @@
+BPM:130
+SPEED:1
+[ADN]  Q J Q J Q E [BMJ] J J Q Q  J  
+[VNW] Q H  [VN]  [BMW] Q H  
+[BM] [ADN] Q J Q J Q E [BMJ] J J Q Q J  
+[VNW] Q H  [VN] [BMW] Q - H  [ADN]  
+R E W [BMJ] J Q W [QVN]  
+E W Q [BMJ] H G H J Q H [VTN]  
+[BRM]  [AD] N E  H J Q H [VTN]  
+[BRM]  [AD] [EN]  [ZC] B  
+[VRN] E R E [BM] W  
+[AD] [EN] E T T Y E E E [VNW] Q H  
+E Q [BMW]  E W Q J [AD] [NQ] J H
