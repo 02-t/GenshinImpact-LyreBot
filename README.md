@@ -32,7 +32,7 @@ You can also change the background's color in **"info.txt"**!<br><br><img width=
   <li>Run the setup and select <a href=https://user-images.githubusercontent.com/93790398/175099040-88f326f3-4058-4da8-926e-b947dc1f4cc4.png>Customize installation</a>
   <li>Make sure you have <a href=https://user-images.githubusercontent.com/93790398/175099735-256ec4ce-027e-4f57-abbd-89e34e1d3c2a.png>these</a> optional features enabled and press next</li>
   <li>Make you have <a href=https://user-images.githubusercontent.com/93790398/175100141-e1c9b5fd-9a06-42dc-912d-d8196e2bb569.png>these</a> advanced options enabled and press install</li>
-  <li>Open cmd and type <i><b>pip install keyboard</b></i>
+  <li>Open cmd, type <i><b>pip install keyboard</b> and press enter</i>
 </ul>
 </details>
 
