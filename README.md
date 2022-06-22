@@ -15,10 +15,10 @@ It works by simulating a player's keyboard, without modifying the game files, so
 
 ## How to use
 Press any song you want from the songs listed in the app, after that Alt+TAB to Genshin and the song will be played in 2 seconds *(you can change the amount of time needed in the **"info.txt"** file)* <br><br>
-<img align="left" width="450" src=https://user-images.githubusercontent.com/93790398/175105430-6216b2eb-1caf-4641-9be2-988c66e2b16e.png><br>
+<img align="left" width="370" src=https://user-images.githubusercontent.com/93790398/175105430-6216b2eb-1caf-4641-9be2-988c66e2b16e.png><br>
 
 To stop the song from playing, hold **"R"** on your keyboard *(this keybind can also be modified from the **"info.txt"** file)*. <br><hr>
-You can also change the background's color in **"info.txt"**!<br><br><img width="400" src="https://user-images.githubusercontent.com/93790398/175106550-424d19c8-9344-4527-bf6e-8f45b77bbcf7.png">
+You can also change the background's color in **"info.txt"**!<br><br><img width="370" src="https://user-images.githubusercontent.com/93790398/175106550-424d19c8-9344-4527-bf6e-8f45b77bbcf7.png">
 
 
 <br><br><br><br><br>
